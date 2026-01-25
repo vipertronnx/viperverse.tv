@@ -15,12 +15,12 @@
     </div>
 
     <p class="description">just another goofy streamer dude</p>
-    <p class="description">contact: <a href="mailto:doc@viperverse.tv">doc@viperverse.tv</a></p>
+    <p class="description">contact: <a href="mailto:hello@viperverse.tv">hello@viperverse.tv</a></p>
 
     <ul class="socials">
       <li><a target="_blank" href="https://discord.viperverse.tv" title="Discord"><img src="../assets/img/discord.svg" alt="Discord"></a></li>
       <li><a target="_blank" href="https://www.twitch.tv/dr_viper" title="Twitch"><img src="../assets/img/twitch.svg" alt="Twitch"></a></li>
-      <li><a target="_blank" href="https://www.instagram.com/doctor.viper/" title="Instagram"><img src="../assets/img/instagram.svg" alt="Instagram"></a></li>
+      <li><a target="_blank" href="https://www.instagram.com/vipertron5000/" title="Instagram"><img src="../assets/img/instagram.svg" alt="Instagram"></a></li>
       <li><a target="_blank" href="https://soundcloud.com/doctor_viper/sets/stream-vibes-v2" title="Soundcloud"><img src="../assets/img/soundcloud.svg" alt="Soundc6loud"></a></li>
     </ul>
 
