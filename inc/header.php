@@ -79,9 +79,9 @@
       <nav>
         <ul>
           <li><a target="_blank" href="https://discord.viperverse.tv">DISCORD</a></li>
-          <li><a target="_blank" href="https://www.twitch.tv/dr_viper">STREAMS</a></li>
-          <li><a target="_blank" href="https://www.instagram.com/doctor.viper/">INSTAGRAM</a></li>
-          <li><a target="_blank" href="https://soundcloud.com/doctor_viper/sets/stream-vibes-v2">VIPER VIBES</a></li>
+          <li><a target="_blank" href="https://www.twitch.tv/vipertronnx">STREAMS</a></li>
+          <li><a target="_blank" href="https://www.instagram.com/vipertronnx/">INSTAGRAM</a></li>
+          <li><a target="_blank" href="https://soundcloud.com/vipertronnx/sets/stream-vibes-v2">VIPER VIBES</a></li>
         </ul>
       </nav>
 
