@@ -44,20 +44,20 @@
 
   <!-- Meta Tags -->
   <meta name="title" content="Viperverse Studios" />
-  <meta name="description" content="A community of gamers, streamers friends, and all-around good people - come join us sometime!" />
+  <meta name="description" content="A community of gamers, streamers friends, and all-around good people - come join us!" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.viperverse.tv/" />
   <meta property="og:title" content="Viperverse Studios" />
-  <meta property="og:description" content="A community of gamers, streamers friends, and all-around good people - come join us sometime!" />
+  <meta property="og:description" content="A community of gamers, streamers friends, and all-around good people - come join us!" />
   <meta property="og:image" content="https://viperverse.tv/assets/img/viperverse_meta.png" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
   <meta property="twitter:url" content="https://www.viperverse.tv/" />
   <meta property="twitter:title" content="Viperverse Studios" />
-  <meta property="twitter:description" content="A community of gamers, streamers friends, and all-around good people - come join us sometime!" />
+  <meta property="twitter:description" content="A community of gamers, streamers friends, and all-around good people - come join us!" />
   <meta property="twitter:image" content="https://viperverse.tv/assets/img/viperverse_meta.png" />
 
 </head>
@@ -74,7 +74,7 @@
         <a href="/">VIPERVERSE</a>
       </h1>
 
-      <img class="sun" src="/assets/img/viper_pfp_optimized.png" alt="SUN" />
+      <img class="sun" src="/assets/img/viper_pfp_optimized_v2.png" alt="SUN" />
 
       <nav>
         <ul>
