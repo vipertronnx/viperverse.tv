@@ -1,27 +1,4 @@
 <!DOCTYPE html>
-<!--
-
-  WELCOME TO THE
-   _   _________  _______ _   _________  ________
-  | | / /  _/ _ \/ __/ _ \ | / / __/ _ \/ __/ __/
-  | |/ // // ___/ _// , _/ |/ / _// , _/\ \/ _/
-  |___/___/_/  /___/_/|_||___/___/_/|_/___/___/
-
-  TEMPLATE PROVIDED BY:
-  - HTML5-Reset: https://github.com/murtaugh/HTML5-Reset
-
-  3RD PARTY TOOLS:
-  - repo management: https://github.com/new
-  - favicon generator: https://favicon.io
-  - social meta tag generators: https://metatags.io — https://megatags.co
-  - social media icon svgs: https://simpleicons.org/
-  - css written and compiled with SASS: https://sass-lang.com/
-  - ascii text art: https://patorjk.com/software/taag/#p=display&f=Slant&t=VIPERVERSE
-
-  ENJOY YOUR REWARD:
-  - Rangers are Forever: https://www.youtube.com/watch?v=IvWtI4NZjTI
-
--->
 <html lang="en">
 <head>
 
@@ -64,9 +41,7 @@
 
 <body>
 
-  <!-- - - - - - - - - - - - - - - - - - -->
-  <!-- Main Desktop Header bar           -->
-  <!-- - - - - - - - - - - - - - - - - - -->
+  <!-- Main Desktop Header bar -->
   <header>
     <div>
 

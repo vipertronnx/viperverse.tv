@@ -1,8 +1,6 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/header.php'); ?>
 
-  <!-- - - - - - - - - - - - - - - - - - -->
-  <!-- Main Content                      -->
-  <!-- - - - - - - - - - - - - - - - - - -->
+  <!-- Main Content -->
   <main class="clearfix">
 
     <h2>welcome to the</h2>
@@ -14,7 +12,7 @@
       <p>|___/___/_/&nbsp;&nbsp;&nbsp;/_____/_/&nbsp;|_|&nbsp;|___/_____/_/&nbsp;|_|/____/_____/</p>
     </div>
 
-    <p class="description">just another goofy streamer dude</p>
+    <p class="description">just another streamer dude</p>
     <p class="description">contact: <a href="mailto:hello@viperverse.tv">hello@viperverse.tv</a></p>
 
     <ul class="socials">
@@ -26,18 +24,14 @@
 
   </main>
 
-  <!-- - - - - - - - - - - - - - - - - - -->
-  <!-- 80s Sun Background thinger        -->
-  <!-- - - - - - - - - - - - - - - - - - -->
+  <!-- 80s Sun Background thinger -->
   <div class="sun-box">
     <div class="sun-bg"></div>
     <div class="sun"></div>
     <div class="sunglow"></div>
   </div>
 
-  <!-- - - - - - - - - - - - - - - - - - -->
-  <!-- 80s Grid Lines                    -->
-  <!-- - - - - - - - - - - - - - - - - - -->
+  <!-- 80s Grid Lines -->
   <svg class="moving-grid">
 
     <!-- VERTICAL LINES -->
